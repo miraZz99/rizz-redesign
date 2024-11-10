@@ -12,7 +12,6 @@
     "nicks-custom-banner": {
       "type": "custom-banner",
       "settings": {
-        "image_1": "shopify://shop_images/jean-paul-gaultier-le-beau-eau-de-toilette.png",
         "first_title": "",
         "second_title": "",
         "third_title": ""
